@@ -1,0 +1,8 @@
+package com.bv;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DcController {
+
+}
